@@ -1,0 +1,13 @@
+{
+  "name": "profile-file-server",
+  "version": "0.0.1",
+  "description": "Profile file server for hack day",
+  "dependencies": {
+    "express": "3.3.5",
+    "lodash": ">= 1.3.1",
+    "ejs": "0.8.4"
+  },
+  "devDependencies": {
+    "jshint": ">= 2.1.10"
+  }
+}
